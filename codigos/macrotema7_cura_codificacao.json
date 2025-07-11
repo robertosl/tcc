@@ -1,0 +1,210 @@
+{
+  "20250607_1653": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "No inicio não. Depois sim. Quando eu entendi eu olhava a barra e apertava o gatilho.",
+      "codigos_iniciais": ["confusão inicial sobre o que fazer", "compreensão da mecânica de cura"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Foi pela intuição",
+      "codigos_iniciais": ["ação por intuição"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Pela explicação",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "Ah, eu senti um... eu senti que foi bom, né, pra poder salvar os peixes.",
+      "codigos_iniciais": ["sensação positiva no minigame"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Só no inicio.",
+      "codigos_iniciais": ["gatilho perdido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Depois da primeira captura sim. Eu vi que eu estava ajudando, depois que ele saiu nadando.",
+      "codigos_iniciais": ["sensação de cuidar dos animais"]
+    }
+  },
+  "20250607_1728": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Sim. Salvar o peixinho.",
+      "codigos_iniciais": ["compreensão do objetivo"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Apertava quando chegava no verde. Isso.",
+      "codigos_iniciais": ["reação ao feedback visual"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Quando apertava o botão.",
+      "codigos_iniciais": ["tentativa e erro"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "Confusa.",
+      "codigos_iniciais": ["sensação negativa no minigame"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["gatilho perdido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Sim. Eu estava salvando o peixinho. A satisfação.",
+      "codigos_iniciais": ["compreensão da mecânica de cura", "sensação de cuidar dos animais"]
+    }
+  },
+  "20250607_1903": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["compreensão do objetivo"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Quando ele tava chegando no verde, eu apertava. E aí ele parava certinho.",
+      "codigos_iniciais": ["reação ao feedback visual"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Ah, ele apareceu. Fiquei pensando aqui pra poder lembrar. Ele apareceu que era pelo lateral. E aí nos outros eu já sabia, então já fui automático.",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "No começo eu fiquei meio aflita, porque eu tava meio tentando entender como é que era. Mas depois do primeiro peixinho foi mais tranquilo, assim, foi ficando mais calma. E deu pra aproveitar melhor.",
+      "codigos_iniciais": ["compreensão da mecânica de cura", "sensação negativa inicial no minigame", "sensação positiva no minigame"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilho mantido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Não. Eu acho que porque o fato de eu estar só apertando para chegar no verde, acho que eu não entendi muito bem o que o verde faria com o peixe. Eu estou salvando o peixe só apertando no verde. Acho que se fosse uma outra coisa, não sei porque também teria que pensar. Mas acho que se fosse uma outra tarefa, eu acho que seria melhor.",
+      "codigos_iniciais": ["compreensão da mecânica de cura", "ausência de vínculo emocional", "distânciamento entre objetivo e mecânica"]
+    }
+  },
+  "20250607_1941": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Sim. Pra... Desinfectar alguns peixes e tal..",
+      "codigos_iniciais": ["compreensão do objetivo"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Meu tempo de reação, isso com a velocidade do game.",
+      "codigos_iniciais": ["reação ao feedback visual"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "É... pelo tutorial.",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "É... Acho que... Faltou um pouco de... Recompensa. Na experiência, porque aí... Depois que você cura o peixe, nada acontece, né? Ah, próximo. Acho que... Poderia ter algo mais... Interativo, né? Assim, no jogo.",
+      "codigos_iniciais": ["ausência de vínculo emocional", "falta de recompensa"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilho mantido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Não. Acho que o mini-game é muito distante. Acho que se mudasse o pra, tipo, um remédio ou algo assim acho que daria essa... essa impressão maior de um cuidado de cura, né?",
+      "codigos_iniciais": ["ausência de vínculo emocional", "distânciamento entre objetivo e mecânica"]
+    }
+  },
+  "20250607_2206": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Que era capturar o animal e cuidar do animal ali baseado numa outra tarefa que vem depois de capturar ali, que era acertar a verdinha.",
+      "codigos_iniciais": ["compreensão da mecânica de cura"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Cara, acho que foi os três comuns, você deixar a barra passar, pra você pegar a velocidade que ela tá, aí na volta, você entender esse padrão e apertar no meio, e que você já conhece a velocidade dela mais ou menos.",
+      "codigos_iniciais": ["reação ao feedback visual"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Acho que teve uma instrução, se não me engano, que esclareceu o botão. Aí eu comecei a ter a familiaridade que existia um botão lateral ali, apesar de não ser tão intuitivo, porque ele é lateral. Mas eu acertei por causa disso, por causa da instrução.",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "Achei um pouco normal, assim, um pouco tediado. Acho que pegar o bicho é mais legal do que ficar só apertando o verde ali, três vezes.",
+      "codigos_iniciais": ["sensação negativa no minigame", "ação tediosa"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Cara, não perdi o controle, eu intuitivamente, às vezes eu apertava o gatilho de dar garra, o gatilho principal ali de atirar, como se eu andasse para parar e falasse, não, não, esqueci, eu apertava depois.",
+      "codigos_iniciais": ["ação por intuição", "tentativa e erro", "gatilho mantido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Não muito. Primeiro que o bicho não parecia estar doente, ele estava brilhando mesmo ali. E depois eu não tive nenhum feedback, assim tipo, ele pegou o bicho, aí você tá vendo ele saindo, ou sei lá, feliz. Não, ele só some ali e pá, passou e pegou. Parece que capturei o bicho também.",
+      "codigos_iniciais": ["ausência de vínculo emocional", "distânciamento entre objetivo e mecânica", "sensação negativa no minigame", "falta de recompensa"]
+    }
+  },
+  "20250608_1448": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Era pra curar os peixinhos.",
+      "codigos_iniciais": ["compreensão do objetivo"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Ah, eu prestava atenção na barrinha, pra não ficar mais perto do centro, eu apertava o gatilho.",
+      "codigos_iniciais": ["reação ao feedback visual"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Na instrução também.",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "Ok, foi tranquilo.",
+      "codigos_iniciais": ["sensação positiva no minigame"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilho mantido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Não. Não tinha nada identificando se o peixe estava doente, então... Não tinha, assim... Não tinha uma barrinha falando lá, tipo, o peixe tá aqui, tá doente, aí você vai acertando e vai enchendo. Ou alguma cor diferente, não tinha nada do tipo.",
+      "codigos_iniciais": ["ausência de vínculo emocional", "falta de recompensa", "distânciamento entre objetivo e mecânica"]
+    }
+  },
+  "20250608_1520": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Sim. Pegar o peixinho dourado.",
+      "codigos_iniciais": ["não compreendeu o objetivo"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Eu esperava ir e voltar mais uma vez, ir pra ver a velocidade e na hora acertar. Pra conseguir entender a velocidade que tava ali.",
+      "codigos_iniciais": ["ação por intuição"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Ah, tinha no tutorial também. Tudo tinha no tutorial, tava explicadinho lá. Só não lembro qual que é agora.",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "Minigame de cura? Não lembro o nome. Ah! Achei bem tranquilo. Só esperar ele voltar e apertar o negocinho.",
+      "codigos_iniciais": ["compreensão da mecânica de cura"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Não, não.",
+      "codigos_iniciais": ["gatilho mantido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Não. Porque eu achei muito fácil esse joguinho. A barra era muito devagar, então com certeza eu ia conseguir acertar a zona verde. Se fosse mais difícil talvez, e aí eu perdesse e tivesse que pegar o peixe de novo, Aí seria um pouco diferente, mas era muito devagar e muito fácil, então... Dava pra que eu sempre acertava o verde.",
+      "codigos_iniciais": ["distânciamento entre objetivo e mecânica", "jogo tedioso"]
+    }
+  },
+  "20250609_2048": {
+    "Após a captura do primeiro animal marinho, você entendeu o que era para fazer?": {
+      "resposta": "Sim. Capturar animais marinhos e... Fazer alguma coisa neles pra liberar eles de novo melhorados. E limpar, sei lá, cuidar.",
+      "codigos_iniciais": ["compreensão do objetivo"]
+    },
+    "Qual a estratégia você usou para acertar a zona verde do mini game de cura?": {
+      "resposta": "Olhar. Então olhar. Não tem muita técnica, quando tava no meio já apertava.",
+      "codigos_iniciais": ["reação ao feedback visual"]
+    },
+    " Como você identificou no controle o responsável por parar o ponteiro no local certo?": {
+      "resposta": "Não sei. Acho que foi o.. Acho que o tutorial falou, sei lá. Esqueci, na verdade foi intuitiva. Dei a tirada, saquei.",
+      "codigos_iniciais": ["identificação via instrução"]
+    },
+    "Como você descreveria o que sentiu no momento do mini game de cura?": {
+      "resposta": "É... é... satisfação.",
+      "codigos_iniciais": ["sensação positiva no minigame"]
+    },
+    "Em algum momento você \"perdeu\" no controle o gatilho responsável por parar o ponteiro?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilho mantido"]
+    },
+    "Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?": {
+      "resposta": "Não. Não é tipo, não é tipo... Acho que é. Isso aí, pensando pro outro lado do game, podia ter um negócio, porra, passamos o homem no peixe, tirou o plástico da tartaruga.",
+      "codigos_iniciais": ["distânciamento entre objetivo e mecânica"]
+    }
+  }
+}

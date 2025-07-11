@@ -1,0 +1,46 @@
+{
+  "macrotema": "Captura de animais marinhos",
+  "temas": [
+    {
+      "nome": "Aprendeu a usar por meio de instruções ou tentativa e erro",
+      "descricao": "Participantes descobriram o gatilho de controle principalmente por tentativa e erro ou por instruções visuais/narradas. Essa descoberta influenciou diretamente na fluidez da experiência inicial.",
+      "codigos_iniciais_agrupados": [
+        "descoberta por tentativa e erro",
+        "descoberta por instrução"
+      ]
+    },
+    {
+      "nome": "A mecênica de captura é vista pela maioria como positiva",
+      "descricao": "As respostas indicam que a maioria dos participantes teve uma experiência positiva ao capturar os animais, embora alguns tenham relatado dificuldades. A facilidade foi associada à clareza do controle e à sensação de sucesso.",
+      "codigos_iniciais_agrupados": [
+        "experiência positiva",
+        "experiência difícil"
+      ]
+    },
+    {
+      "nome": "Dificuldades relacionadas à distância e à precisão das garras",
+      "descricao": "Vários participantes relataram dificuldade em entender a distância correta entre a garra e o peixe, resultando em falhas na captura. Isso afetou a precisão e causou frustração em alguns casos.",
+      "codigos_iniciais_agrupados": [
+        "problema com a noção de distância entre a garra e o peixe",
+        "dificuldade na ação de captura"
+      ]
+    },
+    {
+      "nome": "Fechamento da garra guiado por visão e intuição",
+      "descricao": "Os participantes utilizaram pistas visuais, como brilho ou proximidade, bem como sua intuição para decidir quando fechar a garra e realizar a captura.",
+      "codigos_iniciais_agrupados": [
+        "fechamento baseado em pista visual",
+        "fechamento por intuição"
+      ]
+    },
+    {
+      "nome": "Facilidade em localizar o botão de acionamento das garras",
+      "descricao": "Enquanto alguns participantes perderam momentaneamente o controle de captura, a maioria relatou facilidade em localizar e acionar o gatilho durante o jogo.",
+      "codigos_iniciais_agrupados": [
+        "gatilho de fácil localização",
+        "gatilho perdido",
+        "abir e fechar sem dificuldade"
+      ]
+    }
+  ]
+}

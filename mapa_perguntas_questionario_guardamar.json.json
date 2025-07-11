@@ -1,0 +1,631 @@
+[
+    {
+        "id": "1",
+        "pergunta": "1. ID do participante",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Identificador único do participante"
+    },
+    {
+        "id": "2",
+        "pergunta": "2. Qual a sua idade?",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a faixa etária do participante"
+    },
+    {
+        "id": "3",
+        "pergunta": "3. Qual o seu sexo biológico?",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber qual o sexo biológico do participante"
+    },
+    {
+        "id": "4",
+        "pergunta": "4. Qual o seu grau de escolaridade",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber o grau de escolaridade do participante"
+    },
+    {
+        "id": "5",
+        "pergunta": "5. Qual é o seu nível de familiaridade com videogames?",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se o participante possui experiência com videogame"
+    },
+    {
+        "id": "6",
+        "pergunta": "6. Qual é o seu nível de experiência com realidade virtual (VR)?",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Verificar se o participante possui experiência com realidade virtual"
+    },
+    {
+        "id": "7",
+        "pergunta": "7. O que você considera importante para ter uma boa experiência em jogos de realidade virtual?",
+        "macrotema": "Perfil do usuário",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber o que o participante como pontos positivos em uma experiência com realidade virtual"
+    },
+    {
+        "id": "8a",
+        "pergunta": "8a. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Tranquilo(a)] ",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Tranquilidade antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8b",
+        "pergunta": "8b. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Curioso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Curiosidade antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8c",
+        "pergunta": "8c. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Engajado(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Motivação antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8d",
+        "pergunta": "8d. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Feliz]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Felicidade antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8e",
+        "pergunta": "8e. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Com vontade de jogar]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Empolgação antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8f",
+        "pergunta": "8f. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Confuso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Confusão Mental antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8g",
+        "pergunta": "8g. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Frustrado(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Frustração antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8h",
+        "pergunta": "8h. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Tenso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Tensão antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8i",
+        "pergunta": "8i. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Ansioso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Ansiedade antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8j",
+        "pergunta": "8j. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Enjoado(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Enjoo antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8l",
+        "pergunta": "8l. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Impaciente]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Impaciência antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "8m",
+        "pergunta": "8m. Com base nas emoções abaixo, indique o quanto você está sentindo no momento. [Com tontura]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Tontura antes da experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "9",
+        "pergunta": "9. O que você achou da experiência?",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber o que o participante achou da experiência de jogar o Guardamar que acabou de jogar"
+    },
+    {
+        "id": "10",
+        "pergunta": "10. O que chamou a sua atenção assim que você começou a jogar?",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber quais pontos do jogo Guardamar chamaram mais a atenção do participante"
+    },
+    {
+        "id": "11",
+        "pergunta": "11. Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se o participante conseguiu entendeu o contexto visual do jogo Guardamar"
+    },
+    {
+        "id": "12",
+        "pergunta": "12. Que elementos visuais te fizeram perceber que você estava nesse cenário? ",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber quais elementos visuais do jogo Guardamar ajudaram o participante a entender o contexto"
+    },
+    {
+        "id": "13",
+        "pergunta": "13. Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se a música era coerente com o contexto do jogo Guardamar"
+    },
+    {
+        "id": "14",
+        "pergunta": "14. A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se os elementos sonoros eram coerentes com o contexto do jogo Guardamar"
+    },
+    {
+        "id": "15",
+        "pergunta": "15. O que te fez entender como mover o submarino?",
+        "macrotema": "Controle e Navegação",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber que fez o participante entender o como mover o submarino para frente, para trás, para esquerda, para direita, para cima e para baixo"
+    },
+    {
+        "id": "16",
+        "pergunta": "16. Como foi a sua experiência ao controlar o submarino?",
+        "macrotema": "Controle e Navegação",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender na perspectiva do participante, como foi a experiência de pilotar o submarino no jogo"
+    },
+    {
+        "id": "17",
+        "pergunta": "17. Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?",
+        "macrotema": "Controle e Navegação",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se em algum momento o participante esqueceu ou perdeu os gatilhos responsáveis por mover o submarino"
+    },
+    {
+        "id": "18",
+        "pergunta": "18. Você sentiu que os controles respondiam bem aos seus comandos?",
+        "macrotema": "Controle e Navegação",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se a resposta dos controles era agradáveis na visão do participante"
+    },
+    {
+        "id": "19",
+        "pergunta": "19. Como você identificou no controle o responsável por movimentar o submarino?",
+        "macrotema": "Controle e Navegação",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber qual elemento foi responsável por ensinar ao participante o como mexer com o submarino."
+    },
+    {
+        "id": "20",
+        "pergunta": "20. Em algum momento você perdeu o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?",
+        "macrotema": "Controle e Navegação",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se em algum momento o participante perdeu fisicamente os gatilhos responsáveis por mover o submarino"
+    },
+    {
+        "id": "21",
+        "pergunta": "21. Como você definia para onde mover o submarino?",
+        "macrotema": "Radar e Localização de Animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender se o participante usava o radar ou outro elemento do jogo para definir para onde ir para capturar os animais marinhos"
+    },
+    {
+        "id": "22",
+        "pergunta": "22. Como você localizava os animais marinhos?",
+        "macrotema": "Radar e Localização de Animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender se o participante usava o radar ou outro elemento do jogo para definir para onde ir para capturar os animais marinhos"
+    },
+    {
+        "id": "23",
+        "pergunta": "23. Quando você viu o radar pela primeira vez?",
+        "macrotema": "Radar e Localização de Animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se em algum momento o participante usou o radar do jogo"
+    },
+    {
+        "id": "24",
+        "pergunta": "24. Em algum momento você ficou em dúvida em como interpretar o radar? Se sim, o que fez para interpretar corretamente?",
+        "macrotema": "Radar e Localização de Animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se o radar é de fácil compreensão"
+    },
+    {
+        "id": "25",
+        "pergunta": "25. Como você identificou no controle o gatilho responsável por fechar e abrir as garras?",
+        "macrotema": "Captura de animais marinhos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber qual elemento foi responsável por ensinar ao participante o como abrir e fechar as garras usadas para capturar os animais marinhos."
+    },
+    {
+        "id": "26",
+        "pergunta": "26. Como foi sua experiência ao tentar capturar um animal marinho?",
+        "macrotema": "Captura de animais marinhos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber na visão do jogador como foi a dinâmica de capturar um animal marinho."
+    },
+    {
+        "id": "27",
+        "pergunta": "27. Como você sabia o momento certo para fechar as garras?",
+        "macrotema": "Captura de animais marinhos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender qual estratégia o participante usava para fechar a garra no momento certo para capturar um animal marinho"
+    },
+    {
+        "id": "28",
+        "pergunta": "28. Você teve alguma dificuldade nessa ação? Se sim como resolveu?",
+        "macrotema": "Captura de animais marinhos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender se existe algum problema na ação de abrir e fechar as garras"
+    },
+    {
+        "id": "29",
+        "pergunta": "29. Em algum momento você perdeu no controle o gatilho responsável por fechar e abrir as garras?",
+        "macrotema": "Captura de animais marinhos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se em algum momento o participante não localizou no controle o gatilho responsável por abrir e fechar as agarras do submarino"
+    },
+    {
+        "id": "30",
+        "pergunta": "30. Após a captura do primeiro animal marinho, você entendeu o que era para fazer?",
+        "macrotema": "Cura dos animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender qual elemento foi responsável por ensinar ao jogador o que era para ser feito após capturar um animal marinho"
+    },
+    {
+        "id": "31",
+        "pergunta": "31. Qual a estratégia você usou para acertar a zona verde do mini game de cura?",
+        "macrotema": "Cura dos animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender na visão do participante como ele sabia o momento certo de parar o ponteiro na zona verde do minigame de cura dos animais marinhos"
+    },
+    {
+        "id": "32",
+        "pergunta": "32. Como você identificou no controle o responsável por parar o ponteiro no local certo?",
+        "macrotema": "Cura dos animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender qual elemento foi responsável por ensinar o usuário o como parar o ponteiro do jogo"
+    },
+    {
+        "id": "33",
+        "pergunta": "33. Como você descreveria o que sentiu no momento do mini game de cura?",
+        "macrotema": "Cura dos animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender o como a pessoa se sentiu no momento do minigame de cura"
+    },
+    {
+        "id": "34",
+        "pergunta": "34. Em algum momento você perdeu no controle o gatilho responsável por parar o ponteiro?",
+        "macrotema": "Cura dos animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "ESaber se a pessoa perdeu ou esqueceu qual era o gatilho responsável no controle por parar o ponteiro do minigame de cura"
+    },
+    {
+        "id": "35",
+        "pergunta": "35. Durante o minigame de cura, você teve a sensação de que estava realmente cuidando ou ajudando os animais? O que no jogo reforçou (ou dificultou) essa sensação?",
+        "macrotema": "Cura dos animais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender se o minigame de cura realmente passa a sensação que a ação de cura está sendo realizada"
+    },
+    {
+        "id": "36",
+        "pergunta": "36. O que você achou da voz com as instruções do jogo?",
+        "macrotema": "Instruções e compreensão",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se a voz com as instruções do jogo era satisfatórias e claras nas explicações"
+    },
+    {
+        "id": "37",
+        "pergunta": "37. Você conseguiu ler as instruções que apareceram no painel?",
+        "macrotema": "Instruções e compreensão",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se a pessoa conseguia ler as instruções que ficavam no painel do submarino"
+    },
+    {
+        "id": "38",
+        "pergunta": "38. Após a introdução, o que você compreendeu que deveria fazer no jogo?",
+        "macrotema": "Instruções e compreensão",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender se a instrução do jogo era clara sobre o que o participante deveria fazer no jogo"
+    },
+    {
+        "id": "39",
+        "pergunta": "39. Como você avaliaria as instruções de como controlar o submarino?",
+        "macrotema": "Instruções e compreensão",
+        "tipo":"Pergunta Qualitativa",
+        "objetivo": "Saber se a pessoa gostou e entendeu as instruções passadas no jogo"
+    },
+    {
+        "id": "40",
+        "pergunta": "40. Como foi entender o funcionamento das garras do submarino a partir das instruções fornecidas?",
+        "macrotema": "Instruções e compreensão",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se as instruções ajudaram o participante como usar as garras do submarino"
+    },
+    {
+        "id": "41",
+        "pergunta": "41. O que você achou das orientações para o processo de cura dos animais?",
+        "macrotema": "Instruções e compreensão",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se as instruções do minigame de cura ajudam o participante a entender o objetivo e como funcionavam as mecânicas"
+    },
+    {
+        "id": "42",
+        "pergunta": "42. Durante o jogo, você sentiu falta de dicas ou orientações adicionais? Onde e de que tipo?",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se o participante sentiu falta de alguma instrução no jogo"
+    },
+    {
+        "id": "43",
+        "pergunta": "43. Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?",
+        "macrotema": "Esforço e dificuldades",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender qual parte do jogo ou mecânica exigiu maior carga mental e foco do participante"
+    },
+    {
+        "id": "44",
+        "pergunta": "44. Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?",
+        "macrotema": "Esforço e dificuldades",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender qual parte do jogo ou mecânica exigiu maior carga mental do participante"
+    },
+    {
+        "id": "45",
+        "pergunta": "45. Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?",
+        "macrotema": "Esforço e dificuldades",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": " Saber se o participante sentiu algum sintoma de Cybersickness"
+    },
+    {
+        "id": "46",
+        "pergunta": "46. Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?",
+        "macrotema": "Esforço e dificuldades",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber se o usuário pensou em parar em algum momento por não estar se sentindo bem por algum sintoma de Cybersickness ou outro desconforto físico"
+    },
+    {
+        "id": "47",
+        "pergunta": "47. Para você, qual parte foi mais divertida? Por quê?",
+        "macrotema": "Imerção e sentimentos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender na visão do participante qual parte do jogo foi a que ele mais se divertiu"
+    },
+    {
+        "id": "48",
+        "pergunta": "48. Para você, qual parte foi mais surpreendente? Por quê?",
+        "macrotema": "Imerção e sentimentos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender na visão do participante qual parte do jogo foi a que ele mais se surpreendeu"
+    },
+    {
+        "id": "49",
+        "pergunta": "49. Para você, qual parte foi mais tediosa? Por quê?",
+        "macrotema": "Imerção e sentimentos",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender na visão do participante qual parte do jogo foi a que ele mais se tediosa"
+    },
+    {
+        "id": "50a",
+        "pergunta": "50a. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Tranquilo(a)] ",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Tranquilidade no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50b",
+        "pergunta": "50b. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Curioso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Curiosidade no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50c",
+        "pergunta": "50c. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Engajado(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Motivação no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50d",
+        "pergunta": "50d. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Feliz]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Felicidade no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50e",
+        "pergunta": "50e. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Com vontade de jogar]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Empolgação no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50f",
+        "pergunta": "50f. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Confuso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Confusão Mental no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50g",
+        "pergunta": "50g. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Frustrado(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Frustração no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50h",
+        "pergunta": "50h. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Tenso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Tensão no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50i",
+        "pergunta": "50i. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Ansioso(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Ansiedade no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50j",
+        "pergunta": "50j. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Enjoado(a)]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Enjoo no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50l",
+        "pergunta": "50l. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Impaciente]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Impaciência no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "50m",
+        "pergunta": "50m. Com base nas emoções abaixo, indique o quanto você está sentindo no momento do jogo ou agora. [Com tontura]",
+        "macrotema": "Emoções",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber a intensidade da emoção Tontura no momento ou após a experiência de jogar o Guardamar. A escala vai de 1 (nada intenso) a 5 (muito intenso)."
+    },
+    {
+        "id": "51",
+        "pergunta": "51. Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?",
+        "macrotema": "Contribuições finais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Entender qual ponto do jogo a participante não gostou, mudaria e entender como seria feita essa mudança"
+    },
+    {
+        "id": "52",
+        "pergunta": "52. Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?",
+        "macrotema": "Contribuições finais",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Averiguar se a pessoa gostaria de falar mais alguma coisa que não foi abordado nas perguntas anteriores"
+    },
+    {
+        "id": "53",
+        "pergunta": "53. Tempo que o usuário demorou para iniciar o jogo?",
+        "macrotema": "Inicialização do jogo",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender o quanto tempo o usuário demorou para iniciar o jogo"
+    },
+    {
+        "id": "54",
+        "pergunta": "54. O usuário solicitou de ajuda do instrutor para calibrar as garras?",
+        "macrotema": "Calibragem das garras",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se o monitor teve que ajudar na ação de calibragem das garras. Se sim, isso indica que as instruções não são suficientes"
+    },
+    {
+        "id": "55",
+        "pergunta": "55. Número de vezes que tentou capturar um animal marinho que não tinha um brilho especial.",
+        "macrotema": "Captura de animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se pessoa prestou atenção em quais animais eram para serem capturados. Caso o número seja maior que 3 indica que a pessoa não entendeu qual era o indicador usado para mostrar qual era o animal marinho alvo"
+    },
+    {
+        "id": "56",
+        "pergunta": "56. Número de vezes que um animal marinho com brilho especial apareceu no campo de visão.",
+        "macrotema": "Captura de animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se o indicador é de fácil visualização, se for maior que 6 quer dizer que não está tão claro assim"
+    },
+    {
+        "id": "57",
+        "pergunta": "57. Após calibrar o braço mecânico, quanto tempo o usuário levou até capturar o primeiro animal marinho com brilho especial.",
+        "macrotema": "Captura de animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender o tempo que um participante precisava para capturar um peixe. Tempos muito altos indicam que o objetivo não ficou claro para o participante"
+    },
+    {
+        "id": "58",
+        "pergunta": "58. Número de capturas de animais marinhos com brilho especial.",
+        "macrotema": "Captura de animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber quantos animais marinho com o indicador correto foi capturado"
+    },
+    {
+        "id": "59",
+        "pergunta": "59. Na primeira captura, em que momento a pessoa iniciou o processo de cura do animal?",
+        "macrotema": "Cura do animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se a pessoa usou as instruções para capturar o animal marinho"
+    },
+    {
+        "id": "60",
+        "pergunta": "60. Número de vezes que o participante acertou as zonas verde no mini-game de cura",
+        "macrotema": "Cura do animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber o número de vezes que um participante a zona correta para a cura do peixe. O número ideial é 3"
+    },
+    {
+        "id": "61",
+        "pergunta": "61. Número de vezes que o participante acertou as zonas amarela no mini-game de cura",
+        "macrotema": "Cura do animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber o número de vezes que um participante a zona amarela. O número ideal é 0"
+    },
+    {
+        "id": "62",
+        "pergunta": "62. Número de vezes que o participante acertou as zona vermelha no mini-game de cura",
+        "macrotema": "Cura do animal marinho",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Saber o número de vezes que um participante a zona vermelha. O número ideal é 0"
+    },
+    {
+        "id": "63",
+        "pergunta": "63. Ao longo do jogo, o usuário conscientemente movia o submarino para frente e para trás?",
+        "macrotema": "Movimentação do submarino",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se o participante sabia usar o analógico da esquerda para mover o submarino para frente e para trás."
+    },
+    {
+        "id": "64",
+        "pergunta": "64. Ao longo do jogo, o usuário conscientemente movia o submarino para esquerda e para direita?",
+        "macrotema": "Movimentação do submarino",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se o participante sabia usar o analógico da esquerda para mover o submarino para esquerda e para direita."
+    },
+    {
+        "id": "65",
+        "pergunta": "65. Ao longo do jogo, o usuário conscientemente movia o submarino para cima e para baixo?",
+        "macrotema": "Movimentação do submarino",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Entender se o participante sabia usar o analógico da direita para mover o submarino para cima e para baixo."
+    },
+    {
+        "id": "66",
+        "pergunta": "66. Quantidade de consultas ao moderador.",
+        "macrotema": "Mais informações",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "Caso o número de consultas ao moderador seja maior que 0 (zero) isso indica que as instrução não foram claras"
+    },
+    {
+        "id": "67",
+        "pergunta": "67. Duração do jogo após apertar o botão Jogar",
+        "macrotema": "Mais informações",
+        "tipo": "Pergunta Quantitativa",
+        "objetivo": "No documento inicial mostra que o jogo deveria ter no máximo duração de 5 minutos. Caso isso não acontece indica que esse tempo base não é suficiente e que a funcionalidade que para o jogo após esse tempo não foi implementada"
+    },
+    {
+        "id": "68",
+        "pergunta": "68. Observações feitas pelo instrutor",
+        "macrotema": "Mais informações",
+        "tipo": "Pergunta Qualitativa",
+        "objetivo": "Saber o que mais o instrutor / monitor conseguiu observar durante o jogo de um participante."
+    }
+]

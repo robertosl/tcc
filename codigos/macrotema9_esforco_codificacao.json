@@ -1,0 +1,146 @@
+{
+  "20250607_1653": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "No meio do jogo. Foi quando eu entendi mais ou menos como funcionava.",
+      "codigos_iniciais": ["exigência de concentração até a metade do jogo"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem esforço"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Não",
+      "codigos_iniciais": ["sem desconforto físico"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  },
+  "20250607_1728": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "Na hora de capturar o peixinho. Porque quando eu movimentava as garras eu não conseguia.",
+      "codigos_iniciais": ["maior concentração para capturar o peixe"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Teve. É se concentrar mais nas garras.",
+      "codigos_iniciais": ["maior esforço para mover as garras"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem desconforto físico"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  },
+  "20250607_1903": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "Na parte de procurar o peixe, porque eu não me dei muito bem com o mapa, e de pinçar ele. Justamente por eu não ter entendido o mapa, eu tive que me guiar, né, virando e rodando mais e procurando ele. Eu não consegui me guiar só pelo radarzinho dele, não.",
+      "codigos_iniciais": ["maior concentração para procurar o peixe", "maior concentração para entender o mapa"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Eu acho que foi justamente a parte do pinçar",
+      "codigos_iniciais": ["maior esforço para capturar o peixe"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem desconforto físico"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  },
+  "20250607_1941": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "Acho que... Eu tava com preocupação de não bater nas coisas, né? Então, acho que essa interação no movimento ali, no submarino, com o radar... Como acabaram colidindo e conseguiu pescar o... pegar o peixe, acho que ficou nesse momento.",
+      "codigos_iniciais": ["maior concentração para entender o mapa", "maio concentração para mover o submarino"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Sim, porque o controle das garras não ali. Pegar o peixe, acho que... Aconteceu dessa distanciamento ali. E alguns movimentos. Só eu for mais... Deixar a garra parada e me movimentar só... É, não tentar... Criar, né... O braço, mas sim... Ou angulação ali do submarino.",
+      "codigos_iniciais": ["maior esforço para capturar o peixe"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Não",
+      "codigos_iniciais": ["sem desconforto físico"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  },
+  "20250607_2206": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "Cara, quando eu já tava começando a ficar impaciente ali, eu fui, cara, eu preciso me concentrar pra acabar logo, porque eu fiquei muito tempo tentando procurar um peixe. Eu peguei, foi legal, mas depois eu falei, pô... Agora eu tô incomodado, é que eu não tô achando... Não vou achar nunca.",
+      "codigos_iniciais": ["concemtração por impaciência", "maior concentração para procurar o peixe"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Cara, mais esforço... Esforço... Acho que era... Não, é realmente entender o mapa, foi o mais difícil. Tem que mais se focar.",
+      "codigos_iniciais": ["maior esforço para entender o mapa"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Cara, senti um pouco de dor de cabeça. Quando eu fiquei não achando o peixe, procurando, acho que me moveu muita tela, assim, porque eu tava procurando de todos os lados. Aí começou a dar uma dor de cabeça, assim.",
+      "codigos_iniciais": ["dor de cabeça", "movimentação da tela"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Cheguei a cogitar, cheguei a cogitar, tipo... Quando eu não tava achando peixe, eu não sabia se ia demorar muito ainda ou não. Deu tirar um pouquinho ali, dar uma... uma respirada.",
+      "codigos_iniciais": ["congitou interromper", "dar uma resperada", "tensão"]
+    }
+  },
+  "20250608_1448": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "No minigame. Porque eu tinha que acertar bem o jeito pra poder curar os animais.",
+      "codigos_iniciais": ["maior concentração para curar o peixe"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Não. Acho que mais esforço só do minigame mesmo, mas nada muito difícil assim.",
+      "codigos_iniciais": ["maior esforço para currar o peixe"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Durante o jogo não, mas quando eu tirei o óculos sim. Quando eu tirei o óculos, eu senti um zumbido no ouvido e fiquei tonta.",
+      "codigos_iniciais": ["tontura", "zumbido no ouvido"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  },
+  "20250608_1520": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "O que eu mais me concentrei foi tentar lembrar os botões. Porque eu esquecia que o daqui era o que pegava, aí eu tinha que ficar testando antes de pegar o peixe, sabe? Porque você fazia assim, aí eu via que o daqui, o mais medial, ele... Fechava a garrinha, aí eu lembrava, mas acaba que eu esqueci os botões de vez em quando.",
+      "codigos_iniciais": ["maior esforço para lembrar dos botões"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem dificuldades percebidas"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem desconforto físico"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não, eu tava querendo achar os peixinhos.",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  },
+  "20250609_2048": {
+    "Em quais momentos do jogo você sentiu que precisava se concentrar mais? Por quê?": {
+      "resposta": "Quando começou o jogo mesmo, quando eu tive que correr atrás dos peixes, tava speedrunner, o tentando quebrar recorde. Eu como speedrunner, então eu loquei, 100% locado.",
+      "codigos_iniciais": ["concentrado para zerar o jogo rápido"]
+    },
+    "Teve alguma tarefa que exigiu mais esforço do que você esperava? Se teve, como você agiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem dificuldades percebidas"]
+    },
+    "Durante o jogo, você sentiu algum desconforto físico como tontura, náusea, dor de cabeça ou visão turva? Pode descrever quando isso aconteceu e como se sentiu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem desconforto físico"]
+    },
+    "Você precisou ou pensou em fazer alguma pausa ou pensou em interromper o jogo por conta de desconforto físico? Em que momento e por qual motivo?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem necessidade de interrupção"]
+    }
+  }
+}

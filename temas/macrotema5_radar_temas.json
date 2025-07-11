@@ -1,0 +1,37 @@
+{
+  "macrotema": "Radar e Localização de Animais",
+  "temas": [
+    {
+      "nome": "Dificuldade na interpretação do radar",
+      "descricao": "Agrupam-se aqui os relatos de participantes que não conseguiram localizar ou interpretar o radar corretamente. Muitos sequer notaram sua presença ou entenderam sua funcionalidade durante o jogo.",
+      "codigos_iniciais_agrupados": [
+        "dificuldade com radar",
+        "dificuldade inicial com radar",
+        "exploração visual"
+      ]
+    },
+    {
+      "nome": "Navegação com radar por familiaridade ou experimentação",
+      "descricao": "Participantes relataram uso consistente do radar para se orientar e localizar os animais marinhos. O recurso foi percebido como útil e em alguns casos familiar, sendo utilizado desde o início da experiência.",
+      "codigos_iniciais_agrupados": [
+        "uso do radar",
+        "familiaridade prévia",
+        "descoberta com ajuda das instruções"
+      ]
+    },
+    {
+      "nome": "Exploração visual como estratégia alternativa a falta do radar",
+      "descricao": "Alguns participantes, independentemente de terem usado o radar, mencionaram utilizar pistas visuais no ambiente, como brilho ou janelas do submarino, para localizar os animais.",
+      "codigos_iniciais_agrupados": [
+        "exploração visual"
+      ]
+    },
+    {
+      "nome": "Localização espacial por tentativa e erro",
+      "descricao": "Foram registrados relatos de jogadores que buscaram entender a orientação e localização dos peixes a partir da experimentação contínua durante o jogo, especialmente em momentos de dúvida.",
+      "codigos_iniciais_agrupados": [
+        "tentativa e erro"
+      ]
+    }
+  ]
+}

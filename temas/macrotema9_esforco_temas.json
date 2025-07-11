@@ -1,0 +1,49 @@
+{
+  "macrotema": "As mecânicas centrais exigêm que o usuário se concentre",
+  "temas": [
+    {
+      "nome": "O jogo exige que o usuário se concentre para executar as tarefas",
+      "descricao": "Os participantes relataram precisar de mais foco em tarefas como capturar ou procurar peixes, controlar o submarino, curar os animais ou lidar com frustração. Isso mostra que a carga cognitiva variava conforme o desafio enfrentado.",
+      "codigos_iniciais_agrupados": [
+        "exigência de concentração até a metade do jogo",
+        "maior concentração para capturar o peixe",
+        "maior concentração para procurar o peixe",
+        "maior concentração para entender o mapa",
+        "maio concentração para mover o submarino",
+        "maior concentração para curar o peixe",
+        "maior esforço para lembrar dos botões",
+        "concemtração por impaciência"
+      ]
+    },
+    {
+      "nome": "As tarefas relacionadas ao radar e à captura foram percebidas como as mais desafiadoras pelos usuários",
+      "descricao": "Alguns participantes relataram que certas tarefas exigiram mais esforço do que imaginavam, como mover as garras, capturar peixes, curar os peixes ou interpretar o mapa.",
+      "codigos_iniciais_agrupados": [
+        "maior esforço para mover as garras",
+        "maior esforço para capturar o peixe",
+        "maior esforço para entender o mapa",
+        "maior esforço para currar o peixe"
+      ]
+    },
+    {
+      "nome": "Somente 2 usuários sentiram algum desconforto",
+      "descricao": "Embora a maioria tenha relatado não ter desconforto físico, alguns participantes citaram sintomas como dor de cabeça, tontura, zumbido no ouvido ou desconforto visual relacionado à movimentação da tela.",
+      "codigos_iniciais_agrupados": [
+        "dor de cabeça",
+        "tontura",
+        "zumbido no ouvido",
+        "sem desconforto físico"
+      ]
+    },
+    {
+      "nome": "Sem necessidade de pausas por desconforto",
+      "descricao": "Enquanto alguns participantes mencionaram vontade de pausar o jogo por frustração ou desconforto, a maioria relatou não ter sentido necessidade de interromper a experiência.",
+      "codigos_iniciais_agrupados": [
+        "congitou interromper",
+        "dar uma resperada",
+        "tensão",
+        "sem necessidade de interrupção"
+      ]
+    }
+  ]
+}

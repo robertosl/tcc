@@ -1,0 +1,51 @@
+{
+  "macrotema": "Controle e Navegação",
+  "temas": [
+    {
+      "nome": "Aprendizado do controle guiado por instruções e experimentação prática",
+      "descricao": "Participantes relataram ter aprendido a mover o submarino por meio de tentativa e erro, instruções no painel ou orientação narrada. Esses métodos auxiliaram na identificação dos botões e na compreensão inicial da navegação.",
+      "codigos_iniciais_agrupados": [
+        "descoberta por tentativa e erro",
+        "instruções no painel",
+        "entendimento por instrução",
+        "tutorial narrado"
+      ]
+    },
+    {
+      "nome": "Confusão durante o controle do submarino",
+      "descricao": "Foram registradas dificuldades para entender o movimento do submarino, identificar sua orientação ou controlar a profundidade. A confusão também se estendeu à integração com o radar e ao momento de iniciar o jogo.",
+      "codigos_iniciais_agrupados": [
+        "confusão ou dificuldade",
+        "dificuldade com o radar",
+        "problema com emergir e submergir",
+        "problema para inicar o jogo"
+      ]
+    },
+    {
+      "nome": "Os controles respondem bem",
+      "descricao": "Alguns participantes relataram respostas satisfatórias dos controles e facilidade em mover o submarino, associando isso a experiências anteriores ou à intuição ao lidar com o joystick.",
+      "codigos_iniciais_agrupados": [
+        "controle positivo",
+        "intuitivo",
+        "experiência prévia",
+        "experiência positiva"
+      ]
+    },
+    {
+      "nome": "Fácil identificação tátil dos botões",
+      "descricao": "Em certos momentos, os jogadores mencionaram ter perdido temporariamente o botão de movimentação ou a função da garra, mas conseguiram recuperá-lo por exploração tátil ou memória.",
+      "codigos_iniciais_agrupados": [
+        "gatilho perdido e recuperado",
+        "gatilhode de fácil localização"
+      ]
+    },
+    {
+      "nome": "Problemas e limitações com as garras",
+      "descricao": "Alguns participantes mencionaram limitações percebidas no controle, como ausência de determinados eixos de movimento ou dificuldade na captura, indicando oportunidades de melhoria na sensibilidade ou design do sistema de navegação.",
+      "codigos_iniciais_agrupados": [
+        "faltou controles",
+        "problema com as garras"
+      ]
+    }
+  ]
+}

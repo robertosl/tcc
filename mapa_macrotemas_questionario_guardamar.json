@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "macrotema": "Perfil do usuário",
+        "objetivo": "Essas perguntas ajudam a traçar um perfil dos usuários",
+        "id_perguntas": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+        "id": "2",
+        "macrotema": "Emoções",
+        "objetivo": "Essas perguntas ajudam a comparar as emoções dos participantes antes e depois da experiência de jogar o Guardamar",
+        "id_perguntas": [ "8a", "8b", "8c", "8d", "8e", "8f", "8g", "8h", "8i", "8j", "8l", "8m", "50a", "50b", "50c", "50d", "50e", "50f", "50g", "50h", "50i", "50j", "50l", "50m"]
+    },
+    {
+        "id": "3",
+        "macrotema": "Perguntas gerais sobre o jogo",
+        "objetivo": "Essas perguntas são úteis para ter um panorama geral do jogo na visão do participante",
+        "id_perguntas": ["9", "10", "11", "12", "13", "14"]
+    },
+    {
+        "id": "4",
+        "macrotema": "Controle e Navegação",
+        "objetivo": "Entender se as mecânicas de controle do submarino são boas e de fácil entendimento",
+        "id_perguntas": ["15", "16", "17", "18", "19", "20"]
+    },
+    {
+        "id": "5",
+        "macrotema": "Radar e Localização de Animais",
+        "objetivo": "Entender se o radar está sendo usado e se ele realmente ajudou o participante durante o jogo",
+        "id_perguntas": ["21", "22", "23", "24"]
+    },
+    {
+        "id": "6",
+        "macrotema": "Captura de animais marinhos",
+        "objetivo": "Entender se a mecânica de captura está clara na visão do participante",
+        "id_perguntas": ["25", "26", "27", "28", "29"]
+    },
+    {
+        "id": "7",
+        "macrotema": "Cura dos animais",
+        "objetivo": "Entender se a mecânica de cura dos animais realmente reflete seu objetivo e se foi de fácil entendimento",
+        "id_perguntas": ["30", "31", "32", "33", "34", "35"]
+    },
+    {
+        "id": "8",
+        "macrotema": "Instruções e compreensão",
+        "objetivo": "Entender se as instruções faladas e escritas realmente ajudaram o participante",
+        "id_perguntas": ["36", "37", "38", "39", "40", "41", "42"]
+    },
+    {
+        "id": "9",
+        "macrotema": "Esforço e dificuldades",
+        "objetivo": "Entender quais foram os partes em que o usuário precisou fazer mais esforço para entender ou jogar",
+        "id_perguntas": ["43", "44", "45", "46"]
+    },
+    {
+        "id": "10",
+        "macrotema": "Imerção e sentimentos",
+        "objetivo": "Saber se na visão do participante se ele conseguiu se sentir dentro do jogo e entender suas emoções com isso",
+        "id_perguntas": ["47", "48", "49"]
+    },
+    {
+        "id": "11",
+        "macrotema": "Contribuições finais",
+        "objetivo": "Saber o como o participante contribuiria com mais informações e sugestões",
+        "id_perguntas": ["51", "52"]
+    },
+    {
+        "id": "12",
+        "macrotema": "Inicialização do jogo",
+        "objetivo": "Entender o quanto tempo o usuário demorou para iniciar o jogo",
+        "id_perguntas": ["53"]
+    },
+    {
+        "id": "13",
+        "macrotema": "Calibragem das garras",
+        "objetivo": "Entender se o monitor teve que ajudar na ação de calibragem das garras. Se sim, isso indica que as instruções não são suficientes",
+        "id_perguntas": ["54"]
+    },
+    {
+        "id": "14",
+        "macrotema": "Captura de animal marinho",
+        "objetivo": "Entender por uma otica objetiva se a mecânica de captura de animal marinho é intuitiva ou de fácil aprendizado pelo participante.",
+        "id_perguntas": ["55", "56", "57", "58"]
+    },
+    {
+        "id": "15",
+        "macrotema": "Cura do animal marinho",
+        "objetivo": "Entender por uma otica objetiva se a mecânica de curea é intuitiva e de fato é adequada para a ação que se propõe ou de fácil aprendizado pelo participante.",
+        "id_perguntas": ["59", "60", "61", "62"]
+    },
+    {
+        "id": "16",
+        "macrotema": "Movimentação do submarino",
+        "objetivo": "Entender por uma otica objetiva se a mecânica de movimentação do submarino é intuitiva ou de fácil aprendizado pelo participante.",
+        "id_perguntas": ["63", "64", "65"]
+    },
+    {
+        "id": "17",
+        "macrotema": "Mais informações",
+        "objetivo": "Ver as contribuições feitas pelo monitor.",
+        "id_perguntas": ["66", "67", "68"]
+    }
+]

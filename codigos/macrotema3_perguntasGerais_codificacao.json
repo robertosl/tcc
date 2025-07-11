@@ -1,0 +1,210 @@
+{
+  "20250607_1653": {
+    "O que você achou da experiência?": {
+      "resposta": "Ah, pra mim foi uma experiência nova, né? Então, por isso que achei bom.",
+      "codigos_iniciais": ["experiência nova"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "Ah, eu fiquei bem confuso com os controles, né?",
+      "codigos_iniciais": ["controles confusos"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Sim, claro. No mar, no oceano, num aquário",
+      "codigos_iniciais": ["ambiente compreendido"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Os peixes, as tartarugas...",
+      "codigos_iniciais": ["fauna marinha como indicador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["trilha sonora coerente"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Sim, paz.",
+      "codigos_iniciais": ["sensação de relaxamento"]
+    }
+  },
+  "20250607_1728": {
+    "O que você achou da experiência?": {
+      "resposta": "Confusa. É porque não estava conseguindo manejar os controles.",
+      "codigos_iniciais": ["controles confusos"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "Submarino. Peixes.",
+      "codigos_iniciais": ["fauna marinha como indicador", "submarino como indicador"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "No mar.",
+      "codigos_iniciais": ["mar como indicador"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Tartarugas. Peixes. O som te ajudou também as borbolinhas.",
+      "codigos_iniciais": ["fauna marinha como indicador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["trilha sonora coerente"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Relaxar.",
+      "codigos_iniciais": ["sensação de relaxamento"]
+    }
+  },
+  "20250607_1903": {
+    "O que você achou da experiência?": {
+      "resposta": "Achei maneiro. Interessante. Eu nunca tinha usado o óculos, então foi uma coisa bem diferente. Mas eu me senti um pouco esse idoso confuso com a tecnologia, sabe? Que é todo mundo diferente. Mas é bem maneiro.",
+      "codigos_iniciais": ["experiência positiva", "experiência nova", "experiência confusa"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "Caraca, é o fato de... De não ver nada ao redor. Só ver o jogo mesmo. Por mais que eu virasse muito assim, só tem o jogo.",
+      "codigos_iniciais": ["imersão"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Sim. Como se fosse um submarino.",
+      "codigos_iniciais": ["submarino como indicador"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "A parte da mecânica, né, parece um bracinho de robô e por aqui está também dentro da água, né, no fundo do mar.",
+      "codigos_iniciais": ["mar como indicador", "submarino como indicador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Sim. De fundo do mar, de aguinha... Entendi. O bolhazinhas.",
+      "codigos_iniciais": ["trilha sonora coerente"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "No começo eu fiquei um pouco aflita, a musiquinha rolando e eu tava tentando entender um pouco os comandos, aí eu fiquei um pouco aflita, mas depois ela foi acalmando.",
+      "codigos_iniciais": ["sensação de desconforto"]
+    }
+  },
+  "20250607_1941": {
+    "O que você achou da experiência?": {
+      "resposta": "Bem legal, bem legal. Acho que tava... bastante imersivo. Alguns momentos pareceia de fato um submarino.",
+      "codigos_iniciais": ["experiência positiva", "imersão", "submarino como indicador"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "E o conjunto assim, a sincronia do som e tal. Acho que todo o contexto também no fim do mar, acho que isso deixou interessante. Essas coisas estavam bem sincronizadas.",
+      "codigos_iniciais": ["atenção ao som", "mar como indicador", "fauna marinha como indicador"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Sim. Tava num... Uma zona no fundo do mar que tinha uma espécie de... Exploração ali.",
+      "codigos_iniciais": ["mar como indicador"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Tinha meio que umas máquinas assim, no fundo",
+      "codigos_iniciais": ["elementos de náufragio como indicador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Sim. Tá bem fluido, assim, bem sincronizado.",
+      "codigos_iniciais": ["sincronia do som"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Tinha a sensação de tranquilidade. Passar a imagem que... Tu teria no fundo d'água, né?",
+      "codigos_iniciais": ["sensação de relaxamento"]
+    }
+  },
+  "20250607_2206": {
+    "O que você achou da experiência?": {
+      "resposta": "Cara, achei o gráfico legal. Deu pra emergir. Deu pra emergir bem, assim, pra você. A tartaruga é mó bonita e tudo mais. Mas eu achei algumas experiências um pouco bugadas. Primeiro, tem uma hora que a garra sumiu. Aí eu fiquei meio confuso, porque cadê a garra e tal. Acho que eu desregulei lá da parada. Teve também, acho que o mapa não deixa muito claro, se eu tô de frente pro peixe, se eu tô atrás do peixe, aí eu ficava meio confuso. E eu não... Pelo menos eu não consegui ver o peixe brilhando, tá ligado? Algumas horas. Eu falei, caralho, aí tem umas horas que você enjoa, você não vê ele muito tempo. Se ela tá longe de você, você não se enxerga no mapa? Fica meio caralho, o que eu vou fazer? Nenhum peixe tá brilhando, eu vou acertar e pegar qualquer coisa, tá ligado?",
+      "codigos_iniciais": ["experiência positiva", "imersão", "fauna marinha como indicador", "experiência confusa", "tédio"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "Cara, chamou a atenção, acho que, no começo, o ambiente, né? Tipo, realmente, o gráfico legal, você viu os petinhos, tava o Baía de Guanabara, pô, daqui da região. Pô, maneiro, tipo, interessante.",
+      "codigos_iniciais": ["atenção aos elementos visuais",  "fauna marinha como indicador", "baia de guanabara"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Entendi que eu tava na Baía de Guanabara, embaixo d'água ali, com o submarino.",
+      "codigos_iniciais": ["ambiente compreendido", "baia de guanabara", "mar como indicador"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Os peixes, principalmente.",
+      "codigos_iniciais": ["fauna marinha como indicador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Acredito que sim. A trilha, se você ficar meio perdido no jogo, pode ficar meio repetitivo, eu acho. Tipo, meio enjoativa, sabe? Porque você não tá achando o jogo, ele tá meio puto procurando o peixe e não tá achando. E aí, a musiquinha fica incomodando. Mas no começo eu achei agradável.",
+      "codigos_iniciais": ["trilha sonora coerente", "trilha sonora repetitiva"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Cara, traz a sensação de um joguinho, de relaxar, sabe? Aquelas músicas que você joga pra um jogo de rolê.",
+      "codigos_iniciais": ["sensação de relaxamento"]
+    }
+  },
+  "20250608_1448": {
+    "O que você achou da experiência?": {
+      "resposta": "Tranquilo. Divertidinho, bonito e divertido, mas relaxante.",
+      "codigos_iniciais": ["sensação de relaxamento", "experiência divertida"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "O visual do jogo. Achei bonito. Passa uma tranquilidade.",
+      "codigos_iniciais": ["sensação de relaxamento"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Sim, foi no mar, mas quando a instituição falou da Baia da Guanabara, deu uma localizada.",
+      "codigos_iniciais": ["ambiente compreendido", "baia de guanabara", "mar como indicador"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Ah, uns peixes, água. Ah, tive barulhinho de água mesmo.",
+      "codigos_iniciais": ["fauna marinha como indicador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Sim",
+      "codigos_iniciais": ["trilha sonora coerente"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Tranquilidade.",
+      "codigos_iniciais": ["sensação de relaxamento"]
+    }
+  },
+  "20250608_1520": {
+    "O que você achou da experiência?": {
+      "resposta": "Achei muito maneiro. Porque é muito diferente você jogar um jogo e ter, como posso dizer, essa imersão de você mexer o braço e pegar, e você olhar pro lado e tipo, o movimento dos seus braços. O movimento dos seus braços importar, e da sua mão importar, do seu olho importar, tudo importa. É muito diferente você pegar um controle normal e só apertar botão. É muito diferente, até porque os braços são individuais, que tem a função da garrinha, acho que por isso que eu achei maneiro, que você parece estar bem dentro do jogo mesmo.",
+      "codigos_iniciais": ["experiência positiva", "experiência nova", "imersão"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "Eu tava tentando entender primeiro, mas eu achei maneiro. Tipo, pra mim o que eu achei mais legal e o que me deixou mais... Achei mais interessante foi a garrinha mexer de acordo com o meu braço mexe. que parecia que eu mesma tava ali, entendeu? Porque, tipo, se fosse só o óculos... O óculos, ok, eu tô olhando no universo. Seria só o óculos, mas não, o controlezinho também faz a gente se sentir mais dentro.",
+      "codigos_iniciais": ["atenção aos controles", "imersão"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Sim. Oceano",
+      "codigos_iniciais": ["ambiente compreendido", "mar como indicador"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Os peixes, a água, cor azul. ",
+      "codigos_iniciais": ["fauna marinha como indicador", "cor como identificador"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Sim. Ah, tinha, tinha uma... uma musiquinha de... que parece quando a gente tá debaixo da água.",
+      "codigos_iniciais": ["trilha sonora coerente", "imersão"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["não relacionado"]
+    }
+  },
+  "20250609_2048": {
+    "O que você achou da experiência?": {
+      "resposta": "Divertido. Foi maneiro. Que... VR, né? Legal, era o barquinho embaixo d'água. Nunca... As vezes que eu joguei VR eu não joguei barquinho embaixo d'água. Achei... Achei maneiro. Achei legal. Achei... Diferente. Inteligente. Tipo, literalmente eu jogaria uma porra num jogo assim. Principalmente porque eu... Tipo, quando você se move... Sabe jogo, tipo, sei lá, que você anda? Que você se move andando? Eu fico muito tonto. Mas isso como faz sentido, tipo, você tá dando negócio, eu não fiquei tonto, mexendo nada. Daria pra jogar por muito tempo, assim, tipo... É um jogo de tio, tá ligado? Jogo relaxanate.",
+      "codigos_iniciais": ["experiência positiva","experiência nova", "experiência divertida", "elementos de náufragio como indicador", "sensação de relaxamento"]
+    },
+    "O que chamou a sua atenção assim que você começou a jogar?": {
+      "resposta": "É... Cara, chamou minha atenção? Não sei... o jogo ia ser ideia, eu não falei ideia que ia ser isso, embaixo d'água assim, com um robô. O polimento... É bom o jogo, isso, né? Tá maneiro, tá bom. Foi a qualidade que chamou a atenção.",
+      "codigos_iniciais": ["qualidade do jogo"]
+    },
+    "Logo nos primeiros momentos do jogo, você entendeu em que tipo de ambiente estava? Se sim, qual?": {
+      "resposta": "Sim. Baia de Guanabara, embaixo dela.",
+      "codigos_iniciais": ["baia de guanabara"]
+    },
+    "Que elementos visuais te fizeram perceber que você estava nesse cenário?": {
+      "resposta": "Visual, eu não me toquei não, devia ter distraído. Eu ouvia da mulher falando. Mas visual, eu não me toquei de cara não, que era bem Guanabara ou não. A mulher falou que tava lá bem Guanabara.",
+      "codigos_iniciais": ["baia de guanabara"]
+    },
+    "Você sentiu que a trilha sonora e os sons combinavam com a proposta do ambiente?": {
+      "resposta": "Bom, pô, bolha, os caralho, não sei o que, sons de fundo, achei, achei. Achei 100%.",
+      "codigos_iniciais": ["trilha sonora coerente"]
+    },
+    "A música de fundo e os sons ambientes transmitiram alguma sensação específica para você?": {
+      "resposta": "Aham. Tesão.",
+      "codigos_iniciais": ["não relacionado"]
+    }
+  }
+}
