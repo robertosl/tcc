@@ -1,0 +1,46 @@
+{
+  "macrotema": "Imersão e sentimentos",
+  "temas": [
+    {
+      "nome": "Imersão e presença no ambiente virtual",
+      "descricao": "Diversos participantes relataram surpresa ao perceberem o nível de imersão proporcionado pelo jogo. O fato de não verem o mundo externo, a movimentação corporal com os controles e a interação direta com os elementos virtuais contribuiu para o sentimento de presença.",
+      "codigos_iniciais_agrupados": [
+        "surpresa com a imersão",
+        "surpresa com o controle da garra"
+      ]
+    },
+    {
+      "nome": "Engajamento com missão de cuidado",
+      "descricao": "Alguns jogadores demonstraram envolvimento afetivo com a proposta do jogo, especialmente na cura dos peixes. Relataram satisfação e significado positivo ao compreender que estavam ajudando ou cuidando de algo.",
+      "codigos_iniciais_agrupados": [
+        "engajamento com missão de cuidado",
+        "impacto positivo"
+      ]
+    },
+    {
+      "nome": "Impacto visual e estético positivo",
+      "descricao": "Participantes destacaram a beleza dos gráficos, o realismo do ambiente submarino e o cuidado visual com os animais. Esse impacto estético gerou admiração, surpresa e encantamento durante a experiência.",
+      "codigos_iniciais_agrupados": [
+        "impacto visual positivo"
+      ]
+    },
+    {
+      "nome": "Momentos de diversão associados a ações específicas",
+      "descricao": "A diversão foi associada principalmente a capturar peixes, buscar ou navegar com o submarino e realizar o minigame de cura. Essas ações geraram envolvimento, desafio e sensação de recompensa.",
+      "codigos_iniciais_agrupados": [
+        "Diversão na captura",
+        "Diversão na busca / navegação",
+        "diversão na cura",
+        "experiência divertida"
+      ]
+    },
+    {
+      "nome": "Tédio relacionado ao minigame de cura",
+      "descricao": "Alguns participantes identificaram o minigame de cura como repetitivo ou menos envolvente. Isso gerou respostas que associam essa parte do jogo a sensações de tédio ou desinteresse.",
+      "codigos_iniciais_agrupados": [
+        "mecânica de cura é tediosa",
+        "melhorar a mecânica de cura"
+      ]
+    }
+  ]
+}

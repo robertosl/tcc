@@ -1,0 +1,50 @@
+{
+  "macrotema": "Perguntas gerais sobre o jogo",
+  "temas": [
+    {
+      "nome": "Fácil compreensão do ambiente e elementos visuais",
+      "descricao": "Os participantes demonstraram reconhecer o ambiente subaquático por meio de elementos como a fauna marinha, o submarino e a referência à Baía de Guanabara. A identificação do cenário foi facilitada por cores, sons e estruturas visuais submersas.",
+      "codigos_iniciais_agrupados": [
+        "ambiente compreendido",
+        "fauna marinha como indicador",
+        "submarino como indicador",
+        "mar como indicador",
+        "elementos de náufragio como indicador",
+        "baia de guanabara",
+        "cor como identificador"
+      ]
+    },
+    {
+      "nome": "Percepções mojoritariamente positivas nas reações à experiência",
+      "descricao": "As respostas indicam um conjunto de reações iniciais mistas, incluindo surpresa, novidade, confusão e entusiasmo. A maior parte das pessoas considerou a experiência positiva ou divertida, especialmente pela novidade do VR.",
+      "codigos_iniciais_agrupados": [
+        "experiência nova",
+        "experiência positiva",
+        "experiência divertida",
+        "experiência confusa",
+        "tédio"
+      ]
+    },
+    {
+      "nome": "Sensação de imersão",
+      "descricao": "Muitos participantes relataram sensação de presença no ambiente do jogo, atribuindo isso à resposta dos controles, ao envolvimento visual e à percepção de estarem dentro do cenário.",
+      "codigos_iniciais_agrupados": [
+        "imersão",
+        "atenção aos elementos visuais",
+        "atenção aos controles",
+        "qualidade do jogo"
+      ]
+    },
+    {
+      "nome": "Percepção positiva da trilha sonora e efeitos sonoros",
+      "descricao": "Os sons e músicas de fundo foram percebidos majoritariamente como coerentes com o ambiente aquático, gerando sensações de tranquilidade e relaxamento. Alguns relatos apontaram repetição ou incômodo em momentos específicos.",
+      "codigos_iniciais_agrupados": [
+        "trilha sonora coerente",
+        "sincronia do som",
+        "sensação de relaxamento",
+        "sensação de desconforto",
+        "trilha sonora repetitiva"
+      ]
+    }
+  ]
+}
