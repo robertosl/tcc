@@ -1,0 +1,82 @@
+{
+  "20250607_1653": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "Seria as explicações para como segurar o peixe, como cuidar do peixe. Entendi.",
+      "codigos_iniciais": ["melhorarar explicações de captura", "melhorarar explicações de cura"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Ah, pela experiência que eu tive pela primeira vez jogando algo em realidade virtual, foi uma sensação maravilhosa.",
+      "codigos_iniciais": ["experiência inédita mencionada", "elogio geral ao jogo"]
+    }
+  },
+  "20250607_1728": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "A movimentação das garras.",
+      "codigos_iniciais": ["crítica à mecânica de captura"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Sim, mais explicação.",
+      "codigos_iniciais": ["sugestão de mais instruções"]
+    }
+  },
+  "20250607_1903": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "Eu acho que eu colocaria mais uma etapa ou mudaria essa parte do verdinho para uma outra coisa. Etapa, por exemplo, é... Peguei o peixe, e aí fazer alguma coisa com ele, que não fosse dar algum negocinho na barrinha verde, ou ser a barrinha verde mais uma coisa, porque acaba que foi muito rápido. E aí fica a situação de querer mais alguma coisa. Acho que se tivesse mais uma coisa além daquela barrinha verde, acho que seria interessante.",
+      "codigos_iniciais": ["melhoria  na mecânica de cura", "dimunuir distênciamento entre objetivo e mecânica na cura", "melhorar os feedbacks"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem comentário adicional"]
+    }
+  },
+  "20250607_1941": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "Eu acho que a sugestão da movimentação desse eixo a mais. E trazer um pouco mais da realidade, assim, tipo... Talvez transportar o peixe pra algum lugar, ou... Algo assim, né? Tipo... A ideia é de que... Ou você tá ajudando ele que ele seja curado, que de fato você pratica uma ação pra... Fazer aquele peixe ali melhor.",
+      "codigos_iniciais": ["crítica à mecânica de controle", "melhoria  na mecânica de cura", "dimunuir distênciamento entre objetivo e mecânica na cura"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Acho que não, acho que foi tudo abordado. Show.",
+      "codigos_iniciais": ["sem comentário adicional"]
+    }
+  },
+  "20250607_2206": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "Cara, primeiro eu acho que eu melhoraria ali... Os peixes assim, por exemplo, os peixes que apareciam brilhantes pra mim eram os peixes secundários, parecia a tartaruga no momento, que era o peixe mais impactante. Todo mundo queria pegar a tartaruga, entendeu? Eu vi que tava mais ali na frente. Aí apareceu o peixinho que nem nem brilhoso ali e depois sumiu o brilho, sabe? Então eu acho que se... Talvez botasse peixe mais impactante pra essas brilhosas, já chamou mais atenção no seu olho, já vai pro peixe mais impactante aí, já tá brilhando ali. Pelo menos alguns. E eu acho que se você estiver muito perdido no jogo, acho que ele poderia, como é um jogo recreativo na minha cabeça, ele poderia começar a facilitar. Então se você ficou muito tempo sem achar o peixe, talvez ele apareça mais em destaque na sua tela ali, pra você já avançar as fases, ter um feedback positivo ali. Eu acredito que o minigame também ali, não encaixou muito esse minigame com o curar. Pois não da para saber que o peixe está doente e seria bacana ter um feedback que você está ajudando o peixe a melhorar.",
+      "codigos_iniciais": ["melhorarar a mecênica de captura", "melhoria  na mecânica de identificação do animal marinho", "melhoria no radar", "melhorar os feedbacks"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Cara, acho que... Não, o jogo foi maneiro. Achei... Achei o gráfico bom, assim, a ideia boa. Acho que tem alguns detalhezinhos só ali que eu não entendi muito bem do jogo. Que coisa é essa mais clara? De UX mesmo, imagina, hein? Ah... Acho que ficaria maneiro pra um recreativo ali, pra... Pra uma criança, imagina eu.",
+      "codigos_iniciais": ["sem comentário adicional", "elogio geral ao jogo"]
+    }
+  },
+  "20250608_1448": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "As coisas que eu falei anteriormente. Eu botaria instruções como começar o jogo, porque fui apertando todos os botões até descobrir qual é. Eu talvez botaria mais tempo para a instrução escrita, deixaria um pouco mais de tempo. Principalmente quando ele tá explicando quando será curar o peixe. Se tem um texto grande, depois troca pra outro. Também teve uma parte que, quando você cura o peixe, a instrução ainda fica ali e não tem nenhuma notificação que a tarefa foi concluída. Acho que talvez um tipo, ah, sei lá, tarefa concluída, alguma coisa assim, ajude, porque eu escrevi tipo, ah, e agora? Será que acabou? Será que não acabou? E a instrução ficava embaixo ainda. Não era a instrução pro próximo passo, era a instrução da cura. Também o radar. Eu acho que, principalmente quando ele fala do radar, localizar onde tá com brilhinho ou qualquer coisa, e melhorar essa percepção do que é a frente e a trás do submarino.",
+      "codigos_iniciais": ["tentativa e erro para iniciar o jogo", "problema na leitura das intruções", "falta de feedback", "melhorar a mecânica do radar"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["sem comentário adicional"]
+    }
+  },
+  "20250608_1520": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "Só colocar uma tarefa de cura mais diferente, ou mais dificilzinha, mais rápida, com mais dificuldade, sei lá, com a velocidade aumentando e diminuindo ao longo da... da retinha, porque era muito fácil de salvar o peixe.",
+      "codigos_iniciais": ["mecânica de cura é tediosa", "melhorar a mecânica de cura"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Joguinho divertido!",
+      "codigos_iniciais": ["elogio geral ao jogo"]
+    }
+  },
+  "20250609_2048": {
+    "Se você pudesse mudar ou melhorar qualquer parte do jogo, o que seria? Por quê?": {
+      "resposta": "Ah... A parte de pegar o peixe talvez, é um pouco mágica, tipo você aperta lá e o peixe meio aparece ali no meio, mas não sei muito como ele é, talvez uma rede, sei lá, eu não sei. Mas enfim, talvez deixar mais realista, né. Acho que a parte quando tá mostrando os tutoriais. Eu acho que talvez, se você não estiver olhando pra lá, ter tipo uma setinha assim embaixo, tipo, olha pra lá, tá ligado? Onde você tem que estar olhando agora pro tutorial. Não tipo, ó, ali embaixo, ali, ali. Tipo, uma seta mesmo assim, não é visão, só seta 3D.",
+      "codigos_iniciais": ["melhorar a mecânica de cura", "problema na leitura das intruções"]
+    },
+    "Gostaria de deixar algum outro comentário, sugestão ou impressão que não foi abordada nas perguntas anteriores?": {
+      "resposta": "Duvido alguém bater meu recorde.",
+      "codigos_iniciais": ["não relacionado"]
+    }
+  }
+}

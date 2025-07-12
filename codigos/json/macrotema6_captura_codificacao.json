@@ -1,0 +1,178 @@
+{
+  "20250607_1653": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Quando eu experimentei o gatilho",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Foi a melhor.",
+      "codigos_iniciais": ["experiência positiva"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "Quando eu ia em direção ao brilho deles.",
+      "codigos_iniciais": ["fechamento baseado em pista visual"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "No início sim, depois não.",
+      "codigos_iniciais": ["dúvidas no início"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Não",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  },
+  "20250607_1728": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Tentativa e erro",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Uma experiência boa.",
+      "codigos_iniciais": ["experiência positiva"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "Quando eu vi o peixe.",
+      "codigos_iniciais": ["fechamento baseado em pista visual"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Às vezes. Mexendo com os controles e com os botões.",
+      "codigos_iniciais": ["dificuldade na ação de captura", "resolução por tentativa e erro"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Várias vezes.",
+      "codigos_iniciais": ["gatilho perdido"]
+    }
+  },
+  "20250607_1903": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Pela orientação que ela deu anteriormente. Mostrou também o desenhozinho, mostrando que era o lateral.",
+      "codigos_iniciais": ["descoberta por instrução"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Eu achei um pouco difícil, porque quando ele tava muito próximo, eu não conseguia pensar que eu tinha que recuar o braço pra poder pegar ele meio que próximo de mim.",
+      "codigos_iniciais": ["experiência difícil", "problema com a noção de distância entre a garra e o peixe"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "É, eu tentei algumas vezes, né, e aí eu sentia que ele ia, mas às vezes parecia que o peixe não estava exatamente na garra. É como se tivesse um círculo que o peixe meio que reconhece que a garra encostou, se ele estivesse dentro daquele círculo, sabe? Próximo da garra, não necessariamente no meio da garrinha.",
+      "codigos_iniciais": ["dificuldade na ação de captura", "problema com a noção de distância entre a garra e o peixe"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Tive. Sim, mas justamente por não saber a parte da orientação do mapa, eu tava meio perdida de onde, como pegava. E depois disso, de quando ele ficava muito próximo, eu não consegui pensar que eu tinha que recuar um pouquinho pra poder pegar ele próximo. Mas eu fui tentando, testando, até conseguir pegar.",
+      "codigos_iniciais": ["dificuldade na ação de captura", "problema com a noção de distância entre a garra e o peixe"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Não. Isso foi fácil de achar",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  },
+  "20250607_1941": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Agora não lembro exatamente se ele... se o jogo ditou que seria ele, ou se... fui em teste e não lembro exatamente.",
+      "codigos_iniciais": ["descoberta por instrução", "descoberta por tentativa e erro"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Foi um pouco complexa, pelo tamanho do... pela interatividade, dificuldade de interatividade de entre a garra e o peixe. Mas acho que... é isso. Acho que não faz foge muito da proposta.",
+      "codigos_iniciais": ["experiência difícil", "dificuldade na ação de captura", "problema com a noção de distância entre a garra e o peixe"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "Quando vi que estava na distância correta ali.",
+      "codigos_iniciais": ["fechamento por intuição"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Sim, em alguns momentos, eu tava meio confuso, né? Sabia se o peixe tava... Se o movimento da garra, né? Tipo, ele faz assim, assim... Acaba... É... Ficando ruim um pouco a distância, né? A noção de distância. Ó, veio que deixei a garra na distância fixa, e aproveitei.",
+      "codigos_iniciais": ["experiência difícil", "fechamento por intuição", "problema com a noção de distância entre a garra e o peixe"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  },
+  "20250607_2206": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Acho que já explicou ali no começo, se não me engano. E depois é intuitivo assim, acho que é o gatilho principal ali, de atirar. Acho intuitivo que é o gatilho principal para... A principal ação do jogo, acho.",
+      "codigos_iniciais": ["descoberta por instrução", "experiência prévia"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "No começo ficou legal, tem um teste ali, depois eu fui meio frustrado porque não consegui mais encontrar ele. Aí ficou incomodado, até achei que o jogo estava bugado em algum momento quando eu estava vendo, não sei se você não reparei. Eu estava vendo e achei que o jogo estava bugado, eu precisei tentar pegar qualquer coisa que vinha.",
+      "codigos_iniciais": ["frustração após longo periodo de procura"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "Não sabia, não era tão claro, sob isso o peixe já apertava indiscriminadamente.",
+      "codigos_iniciais": ["falta de clareza sobre momento de captura", "fechamento por intuição"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Não, abri e fechava as garras achei tranquilo.",
+      "codigos_iniciais": ["experiência positiva", "abir e fechar sem dificuldade"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Não o controle, eu pedi a própria garra. Eu vi que ele não sabia se ele tava na frente ou mais, não tava. Mas quando eu vi a garra, consegui acertar ele e funcionar.",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  },
+  "20250608_1448": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Também na instrução. Tinha o desenho na instrução lá embaixo.",
+      "codigos_iniciais": ["descoberta por instrução"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Foi tranquilo",
+      "codigos_iniciais": ["experiência positiva"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "Poxa, eu tentava chegar próximo pra fechar quando tava brilhando. Às vezes não funcionava tão bem, mas...",
+      "codigos_iniciais": ["dificuldade na ação de captura", "fechamento baseado em pista visual"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["abir e fechar sem dificuldade"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Também não.",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  },
+  "20250608_1520": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "É, o tutorial deu. Eu esqueci um pouquinho, mas aí eu ficava testando no meio do jogo.",
+      "codigos_iniciais": ["descoberta por instrução", "descoberta por tentativa e erro"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Como eu disse no início, eu esqueci que eu podia mexer com a garrinha, mas depois que eu lembrei foi bem fácil.",
+      "codigos_iniciais": ["não relacionado"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "Quando eu tava perto do peixe.",
+      "codigos_iniciais": ["fechamento por intuição"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Não, só esqueci mesmo. Mas é normal, porque em muitos jogos eu esqueço os botões.",
+      "codigos_iniciais": ["abir e fechar sem dificuldade"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Não, o controle é agradável na mão, não sei explicar.",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  },
+  "20250609_2048": {
+    " Como você identificou no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Acho que esse foi só apertado mesmo. Esse eu tentei e fechei. Tentativa e erro boa. Boa e velha. Boa e velha.",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    },
+    "Como foi sua experiência ao tentar capturar um animal marinho?": {
+      "resposta": "Foi boa, foi boa. Mas os dois que eu tentei, até o primeiro lá... Foi boa, foi boa. Até porque é exatamente a minha mão, então eu fui ali... Tá, tá, tá.",
+      "codigos_iniciais": ["experiência positiva"]
+    },
+    "Como você sabia o momento certo para fechar as garras?": {
+      "resposta": "É... porque eu tava em cima do peixe.",
+      "codigos_iniciais": ["fechamento por intuição"]
+    },
+    "Você teve alguma dificuldade nessa ação? Se sim como resolveu?": {
+      "resposta": "Bom... era literalmente minha mão, mas não...",
+      "codigos_iniciais": ["abir e fechar sem dificuldade"]
+    },
+    " Em algum momento você \"perdeu\" no controle o gatilho responsável por fechar e abrir as garras?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilho de fácil localização"]
+    }
+  }
+}

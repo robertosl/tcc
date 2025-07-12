@@ -1,0 +1,210 @@
+{
+  "20250607_1653": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "As explicações, né, que ela deu",
+      "codigos_iniciais": ["tutorial narrado"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Diferente",
+      "codigos_iniciais": ["experiência nova"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "No início. Só comecei a pilotar depois da explicação do jogo",
+      "codigos_iniciais": ["confusão inicial", "entendimento por instrução"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["controle positivo"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Eu testei os botões até achar",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Sim, no começo, porque eu não entendi. E para achar novamente, foi no tato né. Uma coisa que me chamou atenção, foi no início em que tinha um desenho que mostrava onde ficava a letra A.",
+      "codigos_iniciais": ["gatilho perdido e recuperado", "descoberta por tentativa e erro", "instruções no painel"]
+    }
+  },
+  "20250607_1728": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "Quando eu comecei a movimentar os controles.",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Uma experiência diferente. Eu realmente achei que tava tendo controle de um submarino.",
+      "codigos_iniciais": ["experiência nova", "imersão"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Teve. Aquela quando eu mexia pro controle e o submarino ia junto.",
+      "codigos_iniciais": ["não relacionado"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Às vezes.",
+      "codigos_iniciais": ["não relacionado"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Apertando os botões.",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Teve. Em vários momentos. Achei eles novamente testando e apertando os botões.",
+      "codigos_iniciais": ["descoberta por tentativa e erro"]
+    }
+  },
+  "20250607_1903": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "Primeiro, né, na orientação, que apareceu sobre movimentação, rotação... Lá no início. E depois, testando do meio.",
+      "codigos_iniciais": ["instruções no painel", "descoberta por tentativa e erro"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Foi tranquilo. É um pouco confuso, assim, a rotação para poder se guiar pelo mapa que eu achei, porque eu não entendia muito bem para onde que o submarino estava virado pelo mapa, mas depois acabou acontecendo, assim, foi.",
+      "codigos_iniciais": ["confusão ou dificuldade"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Sim, nessa parte de não saber exatamente pra onde ele tava virado, porque pelo mapa, os peixinhos tão passando ao redor do submarino, mas eu não consegui identificar o certo se ele tava passando muito na minha frente ou ao redor, pra trás. Parecia que o submarino ele só movia, mas o peixe não, sabe? Parece que ele virava assim todo dia. Eu só fiquei procurando peixe e teve uma hora que ele ficou com a bordinha colorida e aí eu sabia que tava de frente pra ele, entendi, eu não soube como resolver.",
+      "codigos_iniciais": ["dificuldade com o radar"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["controle positivo"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Testando e por eu já ter visto a orientação na parte inicial.",
+      "codigos_iniciais": ["descoberta por tentativa e erro", "instruções no painel"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Perdi, teve uma hora que eu esqueci qual era o comando e aí eu tive que testar qual era, se era o de cima ou se era o lateral.",
+      "codigos_iniciais": ["gatilho perdido e recuperado", "descoberta por tentativa e erro"]
+    }
+  },
+  "20250607_1941": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "Ah, acho que a experiência espelha mesmo. Um iogo, assim.",
+      "codigos_iniciais": ["experiência prévia"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Não foi tão boa, senti falta de alguns controles. Girar em alguns eixos. Mas no geral, tudo bem.",
+      "codigos_iniciais": ["faltou controles"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Acho que... mais por cima de falta desse movimento, mas... É contornado, né? Virar, como se fosse um... No mesmo eixo, sabe? E eu, tipo, ia girar e assim... Aham. Assim... O outro meio que subia e descia. Dei uma volta, assim, no eixo, mais que leve. Ok.",
+      "codigos_iniciais": ["faltou controles"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Sim. O que eu senti um pouco foi na hora da captura do peixe. Ou garra passava, ou tava muito antes, sabe?",
+      "codigos_iniciais": ["controle positivo", "problema com as garras"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Acho que a experiência foi prévia.",
+      "codigos_iniciais": ["experiência prévia"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilhode de fácil localização"]
+    }
+  },
+  "20250607_2206": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "Acho que eu consegui entender melhor pra frente, pra trás, claro, pro outro, que é meio em dúvida na questão da profundidade, se eu conseguia subir ou descer, isso eu não entendi muito bem. Mas acho que o intuitivo ia ser esse movimento lateral, assim, pelo joystick. Talvez esse movimento da terceira dimensão ali, né, que pode ter ficado um pouco confuso ali, acho que demorei pra pegar. O que fica na mão direita ali.",
+      "codigos_iniciais": ["confusão ou dificuldade"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Cara, teve esse ponto da garra, né, que se perdeu em algum momento, isso incomodou. E o mapa incomodou bastante também, mas o profundidade, se poder ir pra frente, ver os bichinhos, achei tranquilo, achei legal.",
+      "codigos_iniciais": ["dificuldade com o radar", "problema com as garras", "experiência positiva"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Cara, não sabia movimentar, não sabia pra onde estava ele, não sabia movimentar o submarino.",
+      "codigos_iniciais": ["confusão ou dificuldade"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Acredito que sim. Responderam bem.",
+      "codigos_iniciais": ["controle positivo"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Acho que foi intuitivo. A movimentação, pelo menos a movimentação pra frente e pra trás, pro lado e pro outro. Não a de profundidade, eu acho que foi mais intuitivo.",
+      "codigos_iniciais": ["intuitivo", "problema com emergir e submergir"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Ah, por movimentar o submarino, não.",
+      "codigos_iniciais": ["gatilhode de fácil localização"]
+    }
+  },
+  "20250608_1448": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "Então, no início tinha a instrução no painel falando pra mover os analógicos do controle.",
+      "codigos_iniciais": ["instruções no painel"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Teve um momento que parecia que tava bugado. Que eu olhei no... Tinha um mapa ali, que tava meio confuso também pra eu ver. E aí eu movi ele pra uma direção. E ele não tava num... O mapa tava indo pra outra. Aí depois ele meio que ajeitou. Eu também fiquei confusa qual era o... Do... Do submarino, qual que era a parte da frente e a de trás também. Fiquei confusa.",
+      "codigos_iniciais": ["confusão ou dificuldade", "dificuldade com o radar"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Submarino não, mas eu não soube como iniciar o jogo. Porque não tinha nenhuma instrução sobre qual botão que eu tinha que apertar para iniciar o jogo. Só ia apertando o tecla botão.",
+      "codigos_iniciais": ["não relacionado", "problema para inicar o jogo"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Exceto nessa vez que eu movimentei o submarino para uma direção e ele não foi.",
+      "codigos_iniciais": ["confusão ou dificuldade"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Foi pela instrução. Ah, eu fui no tátil mesmo, de sentir qual era o botão da alavancazinha, aí movimentou.",
+      "codigos_iniciais": ["entendimento por instrução", "descoberta por tentativa e erro"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilhode de fácil localização"]
+    }
+  },
+  "20250608_1520": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "As regras... As regras ajudaram, porque eu demorei um pouquinho a entender como funciona. E os... Como posso explicar? Tinha um tutorial, né? Que me ajudou a entender pra que funcionam os botões. Aí eu consegui... E o analógico é meio intuitivo. Mesmo no analógico, mexe no submarino, mas... Os botõezinhos e as dicas do jogo.",
+      "codigos_iniciais": ["instruções no painel", "entendimento por instrução", "intuitivo"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Divertido. Eu adorei mesmo a garrinha do submarino. Pra mim foi a parte mais divertida.",
+      "codigos_iniciais": ["experiência positiva"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Quando eu esqueci que o meu braço era a garrinha, mas o submarino em si, que mexia no analógico, não tive dificuldade.",
+      "codigos_iniciais": ["gatilho perdido e recuperado"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Sim.",
+      "codigos_iniciais": ["experiência positiva"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "Era um analógico, foi intuitivo.",
+      "codigos_iniciais": ["intuitivo", "experiência prévia"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Analógico? Não.",
+      "codigos_iniciais": ["experiência prévia", "gatilhode de fácil localização"]
+    }
+  },
+  "20250609_2048": {
+    "O que te fez entender como mover o submarino?": {
+      "resposta": "Eu sou gamer. Eu sou gamer. Era do jeito que era. Inclusive esse é o modo 3 do drone DJI. É o modo 3. O modo 2 é invertido. O modo 2 no lado do joystick esquerdo é cima, baixo e rotação. E o direita é assim. E o modo 3 é esse.",
+      "codigos_iniciais": ["experiência prévia"]
+    },
+    "Como foi a sua experiência ao controlar o submarino?": {
+      "resposta": "Boa, boa. Boa intuitiva. Ele tem uma física assim, não é tipo... Não é travadão.",
+      "codigos_iniciais": ["controle positivo"]
+    },
+    "Houve alguma situação em que você não soube como movimentar o submarino? Se sim, o que fez para voltar ao comando?": {
+      "resposta": "Não, não houve.",
+      "codigos_iniciais": ["não relacionado"]
+    },
+    "Você sentiu que os controles respondiam bem aos seus comandos?": {
+      "resposta": "Senti, senti. Se usasse os dois juntos, assim, como eu esperava, como esperava como gamer.",
+      "codigos_iniciais": ["controle positivo"]
+    },
+    "Como você identificou no controle o responsável por movimentar o submarino?": {
+      "resposta": "É... É... Teve o tutorial, né? Mas também... Né? Futucando... Primeiramente, eu acho que eu só mexi depois que o tutorial falou. Ok.",
+      "codigos_iniciais": ["descoberta por tentativa e erro", "instruções no painel"]
+    },
+    "Em algum momento você \"perdeu\" o gatilho responsável por movimentar o submarino? Se sim, o que fez para achá-lo novamente?": {
+      "resposta": "Não.",
+      "codigos_iniciais": ["gatilhode de fácil localização"]
+    }
+  }
+}
